@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-5481b00-natural-landscape-360-aerial",
-      "name": "5481b00-natural-landscape-360-aerial",
+      "id": "0-page-1",
+      "name": "Page 1",
       "levels": [
         {
           "tileSize": 256,
@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": 0.6523549438280511,
           "pitch": -0.3153168714171386,
           "rotation": 7.853981633974483,
-          "target": "1-dp1j1wey-times-square-360"
+          "target": "1-page-2"
         }
       ],
       "infoHotspots": [
@@ -62,8 +62,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-dp1j1wey-times-square-360",
-      "name": "dp1j1wey-times-square-360",
+      "id": "1-page-2",
+      "name": "Page 2",
       "levels": [
         {
           "tileSize": 256,
@@ -94,7 +94,7 @@ var APP_DATA = {
           "yaw": -3.0803444266165094,
           "pitch": -0.5421379245751332,
           "rotation": 1.5707963267948966,
-          "target": "2-j8j1nuo-360-image-marina"
+          "target": "2-page-3"
         }
       ],
       "infoHotspots": [
@@ -107,8 +107,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-j8j1nuo-360-image-marina",
-      "name": "j8j1nuo-360-image-marina",
+      "id": "2-page-3",
+      "name": "Page 3",
       "levels": [
         {
           "tileSize": 256,
@@ -139,7 +139,7 @@ var APP_DATA = {
           "yaw": 0.7192031143047544,
           "pitch": -0.49059285583754075,
           "rotation": 1.5707963267948966,
-          "target": "3-n5f0lia-360-photo-panorama-"
+          "target": "3-page-4"
         }
       ],
       "infoHotspots": [
@@ -152,8 +152,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-n5f0lia-360-photo-panorama-",
-      "name": "n5f0lia-360-photo-panorama-",
+      "id": "3-page-4",
+      "name": "Page 4",
       "levels": [
         {
           "tileSize": 256,
@@ -184,7 +184,7 @@ var APP_DATA = {
           "yaw": 2.8537724083190295,
           "pitch": -0.3861486834840875,
           "rotation": 1.5707963267948966,
-          "target": "4-sb0criu-360-panorama-shore"
+          "target": "4-page-5"
         }
       ],
       "infoHotspots": [
@@ -197,8 +197,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "4-sb0criu-360-panorama-shore",
-      "name": "sb0criu-360-panorama-shore",
+      "id": "4-page-5",
+      "name": "Page 5",
       "levels": [
         {
           "tileSize": 256,
@@ -229,7 +229,7 @@ var APP_DATA = {
           "yaw": 2.1054286404908495,
           "pitch": -0.4228926327028155,
           "rotation": 1.5707963267948966,
-          "target": "5-golden-gate-bridge-360-experience-de5ykhbw"
+          "target": "5-page-6"
         }
       ],
       "infoHotspots": [
@@ -242,8 +242,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "5-golden-gate-bridge-360-experience-de5ykhbw",
-      "name": "golden-gate-bridge-360-experience-de5ykhbw",
+      "id": "5-page-6",
+      "name": "Page 6",
       "levels": [
         {
           "tileSize": 256,
@@ -274,7 +274,7 @@ var APP_DATA = {
           "yaw": -1.088268835296324,
           "pitch": -0.34654079922938763,
           "rotation": 1.5707963267948966,
-          "target": "6-mm01bmi-bal-harbour-florida-360-view"
+          "target": "6-page-7"
         }
       ],
       "infoHotspots": [
@@ -287,8 +287,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "6-mm01bmi-bal-harbour-florida-360-view",
-      "name": "mm01bmi-bal-harbour-florida-360-view",
+      "id": "6-page-7",
+      "name": "Page 7",
       "levels": [
         {
           "tileSize": 256,
@@ -323,7 +323,7 @@ var APP_DATA = {
           "yaw": -0.4753862815785155,
           "pitch": -0.36290426433563105,
           "rotation": 1.5707963267948966,
-          "target": "7-jdi9wd3-bridge-360-panorama-virtual-tour"
+          "target": "7-page-8"
         }
       ],
       "infoHotspots": [
@@ -336,8 +336,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "7-jdi9wd3-bridge-360-panorama-virtual-tour",
-      "name": "jdi9wd3-bridge-360-panorama-virtual-tour",
+      "id": "7-page-8",
+      "name": "Page 8",
       "levels": [
         {
           "tileSize": 256,
@@ -368,7 +368,7 @@ var APP_DATA = {
           "yaw": -1.6590589414415788,
           "pitch": -0.379569007532254,
           "rotation": 1.5707963267948966,
-          "target": "0-5481b00-natural-landscape-360-aerial"
+          "target": "0-page-1"
         }
       ],
       "infoHotspots": [
